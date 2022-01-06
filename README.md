@@ -1,4 +1,4 @@
-# MQ6-Gas-Sensor-Analytical-Model 
+# MQ6-Gas-Sensor-Analytical-Model-and-PPM-Calculation
 
 The author would like to acknowledge the following research paper for modelling the MQ6 gas sensor in Python. 
 
